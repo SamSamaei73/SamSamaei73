@@ -1,10 +1,28 @@
- 💫 About Me:
-<br>Software Engineer and Machine Learning Engineer with an MSc in Artificial Intelligence. I build end to end systems across backend services, front end product experiences, and production machine learning, with a focus on GenAI and LLM powered systems: retrieval augmented generation, prompt engineering, and autonomous agents. Additional depth in graph neural networks and computer vision. Currently building production GenAI systems and full stack platform features for a multi service logistics platform, using Python, FastAPI, React, and Docker across AWS and Azure. 🚀
+# Alireza
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alireza-samaei/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/31573609/alireza-samaei) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alireza.samaei73@gmail.com) 
+Software Engineer and Machine Learning Engineer with an MSc in Artificial Intelligence. I build end to end systems across backend services, front end product experiences, and production machine learning, with a focus on GenAI and LLM powered systems: retrieval augmented generation, prompt engineering, and autonomous agents. Additional depth in graph neural networks and computer vision. Currently building production GenAI systems and full stack platform features for a multi service logistics platform, using Python, FastAPI, React, and Docker across AWS and Azure. 🚀
 
-# 💻 Tech Stack:
+## Selected work
+
+| Project | Focus |
+| --- | --- |
+| [Sam](https://github.com/SamSamaei73/Sam) | Personal AI desktop assistant: Python/FastAPI, React/TypeScript and Tauri, with local voice processing and explicit permissions. Under active development; Phase 17 remains unapproved and short-phrase voice matching is unresolved. |
+| [Health misinformation detection with GNNs](https://github.com/SamSamaei73/Misinformation_GNN) | Semantic embeddings and graph neural networks for classifying health-related claims. Includes experiments and the associated research publication. |
+
+## Research
+
+[Leveraging Semantic Embeddings with Graph Convolutional Networks for Health Misinformation Detection](https://link.springer.com/chapter/10.1007/978-3-032-18849-6_24) —
+Alireza Samaei Yekta and Elaheh Homayounvala, *Evolution in Computational
+Intelligence*, Springer (2026).
+[Code and methodology](https://github.com/SamSamaei73/Misinformation_GNN).
+
+## Links
+
+[Portfolio](https://alireza-samaei.com) ·
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alireza-samaei/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/31573609/alireza-samaei) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alireza.samaei73@gmail.com)
+
+## Technology focus
 **Languages**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -22,12 +40,12 @@
 
 **Testing & Tools**
 ![Pytest](https://img.shields.io/badge/pytest-%23ffffff.svg?style=for-the-badge&logo=pytest&logoColor=2f9fe3) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-# 📊 GitHub Stats:
+## GitHub activity
 ![](https://github-readme-stats.vercel.app/api?username=SamSamaei73&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=SamSamaei73&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SamSamaei73&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
+### Contribution overview
 ![](https://github-contributor-stats.vercel.app/api?username=SamSamaei73&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
